@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samee2026
+- 👋 Hi, I’m @Sam 
 - 👀 I’m interested in Coding and Cubing
 - 🌱 I’m currently learning JavaScript and CSS
 - 💞️ I’m looking to collaborate on Google
